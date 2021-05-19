@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubham1292
+- 👋 Hi, I’m Shubham Kumar
 - 👀 I’m interested in web deveploment and cyber security.
 - 🌱 I’m currently learning web development
 - 📫 shubham.kr446@gmail.com
