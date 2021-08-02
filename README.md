@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Kumar
-- 👀 I’m interested in web deveploment and cyber security.
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in web deveploment ,android development and cyber security.
+- 🌱 I’m currently learning android app development
 - 📫 shubham.kr446@gmail.com
 
 <!---
