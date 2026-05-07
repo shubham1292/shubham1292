@@ -1,12 +1,9 @@
 # 💫 About Me:
-🌟 Building ERP Solutions with Microsoft Dynamics 365 Business Central.
-I am a D365 Business Central Technical Consultant, working on designing and delivering real-world ERP solutions.
-My work involves AL development, customization, API integrations, and report development (RDLC), along with solving business problems across modules like Sales, Inventory, and Production.
-I focus on building scalable extensions, automating workflows, and improving system efficiency. I also have a background in C#, ASP.NET, and SQL Server, which helps me understand full-stack development and integrations.
-Currently, I am expanding my expertise in APIs, Power Platform (Power Apps), and enterprise-level system integrations.
-🎓 Academic Background:
-Bachelor of Technology in Computer Science and Engineering
-IIMT University | CGPA: 7.84
+🌟 Building ERP Solutions with Microsoft Dynamics 365 Business Central. <br>
+I am a D365 Business Central Technical Consultant, working on designing and delivering real-world ERP solutions.<br>
+My work involves AL development, customization, API integrations, and report development (RDLC), along with solving business problems across modules like Sales, Inventory, and Production.<br>
+I focus on building scalable extensions, automating workflows, and improving system efficiency. I also have a background in C#, ASP.NET, and SQL Server, which helps me understand full-stack development and integrations.<br>
+Currently, I am expanding my expertise in APIs, Power Platform (Power Apps), and enterprise-level system integrations.<br>
 I am passionate about building efficient, scalable solutions and continuously improving my technical and problem-solving skills in the ERP and cloud ecosystem.
 
 
