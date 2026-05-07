@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am an enthusiastic and highly motivated B. Tech graduate in Computer Science and Engineering with a strong foundation in software development, problem-solving, and a genuine passion for technology. As a recent graduate, I am eager to embark on a rewarding career in the tech industry, where I can contribute my skills and learn from experienced professionals. I am actively seeking opportunities to kickstart my career in software development or related roles. I am excited about the possibility of contributing to innovative projects, expanding my skill set, and growing professionally in a dynamic environment.
+🌟 Building ERP Solutions with Microsoft Dynamics 365 Business Central.
+I am a D365 Business Central Technical Consultant, working on designing and delivering real-world ERP solutions.
+My work involves AL development, customization, API integrations, and report development (RDLC), along with solving business problems across modules like Sales, Inventory, and Production.
+I focus on building scalable extensions, automating workflows, and improving system efficiency. I also have a background in C#, ASP.NET, and SQL Server, which helps me understand full-stack development and integrations.
+Currently, I am expanding my expertise in APIs, Power Platform (Power Apps), and enterprise-level system integrations.
+🎓 Academic Background:
+Bachelor of Technology in Computer Science and Engineering
+IIMT University | CGPA: 7.84
+I am passionate about building efficient, scalable solutions and continuously improving my technical and problem-solving skills in the ERP and cloud ecosystem.
 
 
 ## 🌐 Socials:
